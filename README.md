@@ -33,11 +33,6 @@ The business needs clarity on:
 
 ---
 
-## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
-
----
-
 ## Project Structure
  📁 coffee-shop-sales-dashboard
  ┣ 📁 Dataset
