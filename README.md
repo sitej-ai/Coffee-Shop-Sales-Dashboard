@@ -34,6 +34,7 @@ The business needs clarity on:
 ---
 
 ## Project Structure
+```
  📁 coffee-shop-sales-dashboard
  ┣ 📁 Dataset
  ┃ ┗ coffee shop sales Datset.csv
@@ -42,6 +43,7 @@ The business needs clarity on:
  ┣ 📁 Screenshot
  ┃ ┗ dashboard.png
  ┗ 📄 README.md
+```
 
 ## Key Insights & Strategic Recommendations
 
